@@ -1,0 +1,8 @@
+name: XPCap
+version: '${project.version}'
+main: com.newtykins.xpcap.XPCap
+api-version: 1.17
+prefix: XPCap
+authors: [ newtykins ]
+description: A simple plugin to cap the amount of XP a user receives in a Minecraft day!
+website: https://newtt.me/
